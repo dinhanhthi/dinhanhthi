@@ -7,3 +7,5 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 - 🔥 Most proud of -- **[Math2IT](http://math2it.com/)**, A Vietnamese site for intuitive knowledge (Maths, Education and Technology).
 - 📚 My notes of learning at **[dinhanhthi.com/notes](http://dinhanhthi.com/notes)**.
 - 💌 Contact me at **[dinhanhthi@gmail.com](mailto:dinhanhthi@gmail.com)**.
+
+More about me 👉 [dinhanhthi.com](https://dinhanhthi.com).
