@@ -16,28 +16,33 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 - Programming languages : <br />
     [![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)](https://dinhanhthi.com/notes#python)
     [![PHP](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://dinhanhthi.com/notes#web_development)
+    [![Matlab](https://img.shields.io/badge/-Matlab-c41f1f?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEUAAAD////39/f5+fn6+vr39/f4+Pj5+fn6+vr6+vr6+vr4+Pj4+Pj4+Pj5+fn5+fn6+vr5+fn5+fn4+Pj5+fn5+fn5+fn5+fn5+fn5+fkezNlVAAAAGXRSTlMAECAuMEBKUGBkanBxdH+AkKCwwM/Q3+/wWOu02AAAAGNJREFUeNqUzcUVBEEIAFEYd7fKP9F9MNJ93X/CkT9Up0pMT8Y4zxqIR9p1Bao31Y0eYJFHeu0zRr09HEdR41orzHB1J24TUy7FxiMRl6+WXJnM0/vGc5uWx2x5rNyz33D5EQB5TgdL48bRoAAAAABJRU5ErkJggg==&logoColor=ffffff)](https://dinhanhthi.com/notes)
+    [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://dinhanhthi.com/notes#web_development)
+    [![R Lang](https://img.shields.io/badge/-R%20Lang-276dc3?style=flat-square&logo=r&logoColor=ffffff)](https://dinhanhthi.com/notes#r)
     [![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)](https://dinhanhthi.com/notes#web_development)
 - Machine Learning frameworks : <br />
     [![Scikit-learn](http://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=fff)](https://dinhanhthi.com/notes#machine_learning)
     [![TensorFlow](http://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff)](https://dinhanhthi.com/tags#tensorflow)
     [![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)](https://dinhanhthi.com/tags#pytorch)
 - Frontend : <br />
+    [![HTML5](http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://dinhanhthi.com/notes#web_development)
     [![Sass](https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)](https://dinhanhthi.com/notes#web_development)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
     [![Gatsby](https://img.shields.io/badge/-Gabtsy-663399?style=flat-square&logo=Gatsby&logoColor=ffffff)](https://dinhanhthi.com/tags#gatsbyjs)
-    [![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)](https://dinhanhthi.com/tags#react)
+    [![React](https://img.shields.io/badge/-React-0088cc?style=flat-square&logo=react&logoColor=fff)](https://dinhanhthi.com/tags#react)
     [![Jekyll](http://img.shields.io/badge/-Jekyll-a83232?style=flat-square&logo=jekyll&logoColor=ffffff)](https://dinhanhthi.com/jekyll-tips)
+    [![Bootstrap](http://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)](https://dinhanhthi.com/notes#web_development)
+    [![11ty](http://img.shields.io/badge/-11ty-000?style=flat-square&logo=eleventy&logoColor=ffffff)](https://dinhanhthi.com/11ty-nunjucks)
 - Backend : <br />
+    [![Airflow](https://img.shields.io/badge/-Airflow-007A88?style=flat-square&logo=apache-airflow&logoColor=ffffff)](https://dinhanhthi.com/airflow-k8s-101)
+    [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)](https://dinhanhthi.com/tags#docker)
     [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://dinhanhthi.com/notes)
     [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://dinhanhthi.com/notes)
     [![Flask](http://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)](https://dinhanhthi.com/notes)
     [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)](https://dinhanhthi.com/notes)
     [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)](https://dinhanhthi.com/notes)
-    [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)](https://dinhanhthi.com/tags#docker)
-    [![Airflow](https://img.shields.io/badge/-Airflow-007A88?style=flat-square&logo=apache-airflow&logoColor=ffffff)](https://dinhanhthi.com/airflow-k8s-101)
 - OS & IDE : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://dinhanhthi.com/visual-studio-code)
-    [![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://dinhanhthi.com/tags#linux)
+    [![Linux](http://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=linux&logoColor=ffffff)](https://dinhanhthi.com/tags#linux)
     [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)](https://dinhanhthi.com/tags#bash)
 
 More about me 👉 [dinhanhthi.com](https://dinhanhthi.com).
