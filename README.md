@@ -39,12 +39,15 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
     [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://dinhanhthi.com/notes)
     [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://dinhanhthi.com/notes)
     [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)](https://dinhanhthi.com/notes)
+    [![gRPC](http://img.shields.io/badge/-gRPC-2DA6B0?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5AsIDykbNhr78AAAAAJiS0dEAP+Hj8y/AAAA4UlEQVQYV2XQsS5DcRQH4D+ik7Y3LBISYdGUpCYGnoFJ2MQgwVN0k7B4ir6DsYumERKphNAmYunWqsXwRa/h3ovG+Y1fcvI7J4TgNwVVHV01JUFK4yYEY6q+fBqIXZnJ8MCRYE5bz74NDbHtBEs63qwo67sxJaj6cJjggievFpX1NeUFsyrZ2oJbz5ZsGmiKRCJFuQSL7gw9ehG7VlHXcm83wUkXHrRSXFPXEzvN2uZMi2x51xTJuxQ7yTDJ6k+hsxSzSTE55VzseBTndfTsWdcwtDOK/9/3B5PHt3XVLAvCN1jW9HHeythcAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTExLTA4VDE1OjQxOjI3KzAwOjAwlbMxiQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0xMS0wOFQxNTo0MToyNyswMDowMOTuiTUAAAAASUVORK5CYII=&logoColor=fff)](https://dinhanhthi.com/notes)
     [![Flask](http://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)](https://dinhanhthi.com/notes)
     [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)](https://dinhanhthi.com/notes)
     [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)](https://dinhanhthi.com/notes)
-- OS & IDE : <br />
+- OS & IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://dinhanhthi.com/visual-studio-code)
     [![Linux](http://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=linux&logoColor=ffffff)](https://dinhanhthi.com/tags#linux)
     [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-663399?style=flat-square&logo=gnu-bash&logoColor=ffffff)](https://dinhanhthi.com/tags#bash)
+    [![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)](https://dinhanhthi.com/git)
+
 
 More about me 👉 [dinhanhthi.com](https://dinhanhthi.com).
