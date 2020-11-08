@@ -14,30 +14,30 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 **Technologies** I've been learning and using so far :
 
 - Programming languages : <br />
-    [![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)](https://github.com/dinhanhthi)
-    ![PHP](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
-    ![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
+    [![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)](https://dinhanhthi.com/notes#python)
+    [![PHP](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://dinhanhthi.com/notes#web_development)
+    [![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)](https://dinhanhthi.com/notes#web_development)
 - Machine Learning frameworks : <br />
-    ![Scikit-learn](http://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=fff)
-    ![TensorFlow](http://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff)
-    ![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)
+    [![Scikit-learn](http://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=fff)](https://dinhanhthi.com/notes#machine_learning)
+    [![TensorFlow](http://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff)](https://dinhanhthi.com/tags#tensorflow)
+    [![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)](https://dinhanhthi.com/tags#pytorch)
 - Frontend : <br />
-    ![Sass](https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+    [![Sass](https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)](https://dinhanhthi.com/notes#web_development)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-    ![Gatsby](https://img.shields.io/badge/-Gabtsy-663399?style=flat-square&logo=Gatsby&logoColor=ffffff)
-    ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-    ![Jekyll](http://img.shields.io/badge/-Jekyll-a83232?style=flat-square&logo=jekyll&logoColor=ffffff)
+    [![Gatsby](https://img.shields.io/badge/-Gabtsy-663399?style=flat-square&logo=Gatsby&logoColor=ffffff)](https://dinhanhthi.com/tags#gatsbyjs)
+    [![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)](https://dinhanhthi.com/tags#react)
+    [![Jekyll](http://img.shields.io/badge/-Jekyll-a83232?style=flat-square&logo=jekyll&logoColor=ffffff)](https://dinhanhthi.com/jekyll-tips)
 - Backend : <br />
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-    ![Flask](http://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
-    ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
-    ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
-    ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)
-    ![Airflow](https://img.shields.io/badge/-Airflow-007A88?style=flat-square&logo=apache-airflow&logoColor=ffffff)
+    [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://dinhanhthi.com/notes)
+    [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://dinhanhthi.com/notes)
+    [![Flask](http://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)](https://dinhanhthi.com/notes)
+    [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)](https://dinhanhthi.com/notes)
+    [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)](https://dinhanhthi.com/notes)
+    [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)](https://dinhanhthi.com/tags#docker)
+    [![Airflow](https://img.shields.io/badge/-Airflow-007A88?style=flat-square&logo=apache-airflow&logoColor=ffffff)](https://dinhanhthi.com/airflow-k8s-101)
 - OS & IDE : <br />
-    ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-    ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
-    ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
+    [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://dinhanhthi.com/visual-studio-code)
+    [![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://dinhanhthi.com/tags#linux)
+    [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)](https://dinhanhthi.com/tags#bash)
 
 More about me 👉 [dinhanhthi.com](https://dinhanhthi.com).
