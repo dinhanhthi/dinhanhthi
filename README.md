@@ -14,9 +14,13 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 **Technologies** I've been learning and using so far :
 
 - Programming languages : <br />
-    ![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
     ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
     ![PHP](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
+    ![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
+- Machine Learning frameworks : <br />
+    ![Scikit-learn](http://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=fff)
+    ![TensorFlow](http://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff)
+    ![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)
 - Frontend : <br />
     ![Sass](https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
@@ -29,11 +33,11 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
     ![Flask](http://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
     ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
     ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
-    ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+    ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)
+    ![Airflow](https://img.shields.io/badge/-Airflow-007A88?style=flat-square&logo=apache-airflow&logoColor=ffffff)
 - OS & IDE : <br />
     ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-    ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
-    ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
+    ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
     ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
 More about me 👉 [dinhanhthi.com](https://dinhanhthi.com).
