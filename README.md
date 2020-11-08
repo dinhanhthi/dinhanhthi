@@ -15,8 +15,7 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 
 **Technologies** :
 
-- Programming languages :
-
+- Programming languages : <br />
     ![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
     ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
     ![PHP](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
@@ -26,16 +25,14 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
     ![Gatsby](https://img.shields.io/badge/-Gabtsy-663399?style=flat-square&logo=Gatsby&logoColor=ffffff)
     ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
     ![Jekyll](http://img.shields.io/badge/-Jekyll-a83232?style=flat-square&logo=jekyll&logoColor=ffffff)
-- Backend :
-
+- Backend : <br />
     ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
     ![Flask](http://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
     ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
     ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
     ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-- OS & IDE :
-
+- OS & IDE : <br />
     ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
     ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
     ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
