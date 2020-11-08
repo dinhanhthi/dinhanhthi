@@ -13,7 +13,7 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 - 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
 - 💌 Contact me at [dinhanhthi@gmail.com](mailto:dinhanhthi@gmail.com).
 
-**Technologies** :
+**Technologies** I've been learning and using so far :
 
 - Programming languages : <br />
     ![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
