@@ -1,7 +1,7 @@
 ### Hi, I'm Thi 👋 — looking for a job as a Data Scientist  🔭
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF4646?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
 
 I'm a Vietnamese guy who has a curious mind. I'd like to learn something new everyday. I'm a **PhD in Applied Maths** and currently a **Data Scientist**.
 
@@ -14,7 +14,7 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 **Technologies** I've been learning and using so far :
 
 - Programming languages : <br />
-    ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
+    ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1&link=#)
     ![PHP](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
     ![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
 - Machine Learning frameworks : <br />
