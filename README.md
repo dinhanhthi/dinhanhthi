@@ -33,6 +33,7 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
     [![Jekyll](http://img.shields.io/badge/-Jekyll-a83232?style=flat-square&logo=jekyll&logoColor=ffffff)](https://dinhanhthi.com/jekyll-tips)
     [![Bootstrap](http://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)](https://dinhanhthi.com/notes#web_development)
     [![11ty](http://img.shields.io/badge/-11ty-000?style=flat-square&logo=eleventy&logoColor=ffffff)](https://dinhanhthi.com/11ty-nunjucks)
+    [![Wordpress](http://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=fff)](https://dinhanhthi.com/tags#wordpress)
 - Backend : <br />
     [![Airflow](https://img.shields.io/badge/-Airflow-007A88?style=flat-square&logo=apache-airflow&logoColor=ffffff)](https://dinhanhthi.com/airflow-k8s-101)
     [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)](https://dinhanhthi.com/tags#docker)
