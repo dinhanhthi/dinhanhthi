@@ -1,4 +1,4 @@
-### Hi, I'm Thi - a Data Scientist 👋
+### Hi, I'm Thi - Data Scientist 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
 [![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://dinhanhthi.com/notes)](https://dinhanhthi.com/notes)
