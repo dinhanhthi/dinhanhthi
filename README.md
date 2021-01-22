@@ -6,7 +6,8 @@
 
 I'm a Vietnamese guy who has a curious mind. I'd like to learn something new every day. I'm a **PhD in Applied Maths** and currently a **Data Scientist**.
 
-- 🌱 I’m currently learning *Advanced Machine Learning* & *Data Science* (and enjoying _Web Dev_).
+- 💼 I’m currently working as a __Data Scientist at [Ideta](https://www.ideta.io/)__.
+- 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying _Web Dev_).
 - 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
 - 📚 My notes of learning at [dinhanhthi.com/notes](http://dinhanhthi.com/notes).
 - 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
