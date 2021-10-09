@@ -59,5 +59,6 @@ Technologies I've been learning and using so far (alphabetical order) :
 - APIs : <br />
     [![Dialogflow](http://img.shields.io/badge/-Dialogflow-eee?style=flat-square&logo=dialogflow&logoColor=FF9800)](https://dinhanhthi.com/)
     [![Foursquare](http://img.shields.io/badge/-Foursquare-eee?style=flat-square&logo=foursquare-city-guide&logoColor=F94877)](https://dinhanhthi.com/)
+    [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)](https://dinhanhthi.com/)
 
 More about me 👉 [dinhanhthi.com](https://dinhanhthi.com).
