@@ -12,7 +12,7 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 - 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
 - 💌 Contact me at [dinhanhthi@gmail.com](mailto:dinhanhthi@gmail.com).
 
-Technologies I've been learning and using so far :
+Technologies I've been learning and using so far (alphabetical order) :
 
 - Programming languages : <br />
     [![FreeFEM++](http://img.shields.io/badge/-FreeFEM++-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA81BMVEUAAP8AAAAAAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP/////77TmdAAAAT3RSTlMAAAUXGEvS1MgtguAdA6jAZ2il0LZqZGVVEsl9DRP+zyrk+r/ZuNjaikz27anGr/EQFgt21lrma2KjtwZ83+VhzZABsFheGlYrIlfHLBUCC7TStQAAAJ1JREFUeNolxwVihFAMRdE3LlDF3R3qRt29zf53MwTul+QA48mUm4wxGo2A2XzBLVcD19QniOC2tmlnd29fkhVV1XQYJlm2I5NLXR78IIziRKAgjeMsR1FWdXNwWBZHx9PpCU7pTByfuxeXVz66Wrq+wS3d3dMDRiM80hOeW3p5fXtnfmifsBuyADC5r4C+GR35rcyf314Dx5O//4EbrkgVZpD8mJYAAAAASUVORK5CYII=&logoColor=CC342D)](https://dinhanhthi.com/)
