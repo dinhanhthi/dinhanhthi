@@ -36,6 +36,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://dinhanhthi.com/#web-dev)
     [![Jekyll](http://img.shields.io/badge/-Jekyll-eee?style=flat-square&logo=jekyll&logoColor=a83232)](https://dinhanhthi.com/jekyll-tips)
     [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://dinhanhthi.com/tags)
+    [![RxJS](https://img.shields.io/badge/-RxJS-eee?style=flat-square&logo=reactivex&logoColor=B7178C)](https://dinhanhthi.com/#web-dev)
     [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://dinhanhthi.com/#web_development)
     [![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)](https://dinhanhthi.com/tags/wordpress/)
 - Backend : <br />
@@ -48,7 +49,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)](https://dinhanhthi.com/)
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://dinhanhthi.com/)
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://dinhanhthi.com/)
-    [![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=reactivex&logoColor=B7178C)](https://dinhanhthi.com/#web-dev)
+    [![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=nestjs&logoColor=E0234E)](https://dinhanhthi.com/#web-dev)
     [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://dinhanhthi.com/nodejs-npm)
     <!-- [![Flask](http://img.shields.io/badge/-Flask-eee?style=flat-square&logo=flask&logoColor=000)](https://dinhanhthi.com/) -->
 - OS & IDE & Tools : <br />
