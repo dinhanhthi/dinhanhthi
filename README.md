@@ -35,6 +35,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![Gatsby](https://img.shields.io/badge/-Gabtsy-eee?style=flat-square&logo=Gatsby&logoColor=663399)](https://dinhanhthi.com/tags/gatsbyjs/)
     [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://dinhanhthi.com/#web-dev)
     [![Jekyll](http://img.shields.io/badge/-Jekyll-eee?style=flat-square&logo=jekyll&logoColor=a83232)](https://dinhanhthi.com/jekyll-tips)
+    [![Next.js](http://img.shields.io/badge/-Next.js-eee?style=flat-square&logo=next.js&logoColor=000)]([https://dinhanhthi.com/nextjs-wordpress](https://dinhanhthi.com/nextjs-wordpress/))
     [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://dinhanhthi.com/tags)
     [![RxJS](https://img.shields.io/badge/-RxJS-eee?style=flat-square&logo=reactivex&logoColor=B7178C)](https://dinhanhthi.com/#web-dev)
     [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://dinhanhthi.com/#web_development)
