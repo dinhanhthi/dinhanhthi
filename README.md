@@ -74,4 +74,4 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![Notion API](https://img.shields.io/badge/-Notion%20API-eee?style=flat-square&logo=notion&logoColor=000000)](https://dinhanhthi.com/notes/#api-&-services)
     [![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-eee?style=flat-square&logo=openai&logoColor=412991)](https://dinhanhthi.com/notes/#api-&-services)
 
-More about me 👉 [dinhanhthi.com](https://dinhanhthi.com).
+More about me and my notes 👉 [dinhanhthi.com](https://dinhanhthi.com).
