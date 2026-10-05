@@ -23,5 +23,6 @@ Projects I’m working on (most are open source):
 - 🎬 **Segment Videos** - Capture video timestamps, collect segments, and export ffmpeg-ready ranges from any page with an HTML video player: [repository](https://github.com/dinhanhthi/segment-video)
 - 👥 **face-grouper** - A CLI tool that groups photos and videos by person using offline face recognition: [repository](https://github.com/dinhanhthi/face-grouper)
 - 💸 **Xpense** - Simple web app for sharing expense: [xp.dinhanhthi.com](https://xp.dinhanhthi.com/)
+- 🧹 **Quick Clear** - An extension to quickly clear web history and download history: [repository](https://github.com/dinhanhthi/quick-clear-chrome)
 
 More about me and my notes 👉 [dinhanhthi.com](https://dinhanhthi.com).
