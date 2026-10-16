@@ -19,7 +19,7 @@ Projects I’m working on (most are open source):
 - 📦 **[Dotlore](https://dotlore.dinhanhthi.com)** - Sync your AI stuff and keep it away from your main codebase
 - 🗄️ **[Dblore](https://dblore.dinhanhthi.com)** - A native macOS app for working with databases: notebooks and a database editor
 - 🖼️ **[Side by side](https://github.com/dinhanhthi/side-by-side)** - A simple web tool to combine multiple photos into a single image
-- 🎬 **Segment Videos** - Capture video timestamps, collect segments, and export ffmpeg-ready ranges from any page with an HTML video player
+- 🎬 **[Segment Videos](https://github.com/dinhanhthi/segment-video)** - Capture video timestamps, collect segments, and export ffmpeg-ready ranges from any page with an HTML video player
 - 👥 **[face-grouper](https://github.com/dinhanhthi/face-grouper)** - A CLI tool that groups photos and videos by person using offline face recognition
 - 💸 **[Xpense](https://xp.dinhanhthi.com)** - Simple web app for sharing expense
 - 🧹 **[Quick Clear](https://github.com/dinhanhthi/quick-clear-chrome)** - An extension to quickly clear web history and download history
