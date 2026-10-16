@@ -24,5 +24,6 @@ Projects I’m working on (most are open source):
 - 💸 **[Xpense](https://github.com/dinhanhthi/xpense)** - Simple web app for sharing expense
 - 🧹 **[Quick Clear](https://github.com/dinhanhthi/quick-clear-chrome)** - An extension to quickly clear web history and download history
 - ⌨️ **[SimpleMapper](https://github.com/dinhanhthi/SimpleMapper)** - Lightweight macOS key remapper: a simple Karabiner-Elements alternative with global or per-keyboard remapping and iCloud sync
+- 😊 **[FastMoji](https://github.com/dinhanhthi/FastMoji)** - A simple, fast way to insert emoji on macOS
 
 More about me, my tools and my notes 👉 [dinhanhthi.com](https://dinhanhthi.com).
