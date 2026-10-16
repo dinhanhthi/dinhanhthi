@@ -14,16 +14,16 @@ Projects I’m working on (most are open source):
 
 - 🔥 **My learning notes**: [dinhanhthi.com](https://dinhanhthi.com/)
 - 🛠️ **[Coding Friend](https://github.com/dinhanhthi/coding-friend)** - Lean toolkit for disciplined engineering workflows with AI Agents
-- 🪄 **[PopGuy](https://github.com/dinhanhthi/PopGuy)** - A guy pops up from your selected text with magic
-- 🐶 **[Memlore](https://memlore.app)** - A cross-platform, privacy-first, local-first journal — with rich, optional AI
-- 📦 **[Dotlore](https://github.com/dinhanhthi/dotlore)** - Sync your AI stuff and keep it away from your main codebase
 - 🗄️ **[Dblore](https://github.com/dinhanhthi/Dblore)** - A native macOS app for working with databases: notebooks and a database editor
-- 🖼️ **[Side by side](https://github.com/dinhanhthi/side-by-side)** - A simple web tool to combine multiple photos into a single image
-- 🎬 **[Segment Videos](https://github.com/dinhanhthi/segment-video)** - Capture video timestamps, collect segments, and export ffmpeg-ready ranges from any page with an HTML video player
+- 📦 **[Dotlore](https://github.com/dinhanhthi/dotlore)** - Sync your AI stuff and keep it away from your main codebase
 - 👥 **[face-grouper](https://github.com/dinhanhthi/face-grouper)** - A CLI tool that groups photos and videos by person using offline face recognition
-- 💸 **[Xpense](https://github.com/dinhanhthi/xpense)** - Simple web app for sharing expense
-- 🧹 **[Quick Clear](https://github.com/dinhanhthi/quick-clear-chrome)** - An extension to quickly clear web history and download history
-- ⌨️ **[SimpleMapper](https://github.com/dinhanhthi/SimpleMapper)** - Lightweight macOS key remapper: a simple Karabiner-Elements alternative with global or per-keyboard remapping and iCloud sync
 - 😊 **[FastMoji](https://github.com/dinhanhthi/FastMoji)** - A simple, fast way to insert emoji on macOS
+- 🐶 **[Memlore](https://memlore.app)** - A cross-platform, privacy-first, local-first journal — with rich, optional AI
+- 🪄 **[PopGuy](https://github.com/dinhanhthi/PopGuy)** - A guy pops up from your selected text with magic
+- 🧹 **[Quick Clear](https://github.com/dinhanhthi/quick-clear-chrome)** - An extension to quickly clear web history and download history
+- 🎬 **[Segment Videos](https://github.com/dinhanhthi/segment-video)** - Capture video timestamps, collect segments, and export ffmpeg-ready ranges from any page with an HTML video player
+- 🖼️ **[Side by side](https://github.com/dinhanhthi/side-by-side)** - A simple web tool to combine multiple photos into a single image
+- ⌨️ **[SimpleMapper](https://github.com/dinhanhthi/SimpleMapper)** - Lightweight macOS key remapper: a simple Karabiner-Elements alternative with global or per-keyboard remapping and iCloud sync
+- 💸 **[Xpense](https://github.com/dinhanhthi/xpense)** - Simple web app for sharing expense
 
 More about me, my tools and my notes 👉 [dinhanhthi.com](https://dinhanhthi.com).
