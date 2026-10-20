@@ -23,7 +23,7 @@ Projects I’m working on (most are open source):
 - 🐶 **[Memlore](https://memlore.app)** - A cross-platform, privacy-first, local-first journal — with rich, optional AI
 - 🪄 **[PopGuy](https://github.com/dinhanhthi/PopGuy)** - A guy pops up from your selected text with magic
 - 🧹 **[Quick Clear](https://github.com/dinhanhthi/quick-clear-chrome)** - An extension to quickly clear web history and download history
-- 🎬 **[Segment Videos](https://github.com/dinhanhthi/segment-video)** - Capture video timestamps, collect segments, and export ffmpeg-ready ranges from any page with an HTML video player
+- 🎬 **[SegDown](https://github.com/dinhanhthi/SegDown)** - Mark time ranges on a video in your browser, then download only those ranges with a native macOS app
 - 🖼️ **[Side by side](https://github.com/dinhanhthi/side-by-side)** - A simple web tool to combine multiple photos into a single image
 - ⌨️ **[SimpleMapper](https://github.com/dinhanhthi/SimpleMapper)** - Lightweight macOS key remapper: a simple Karabiner-Elements alternative with global or per-keyboard remapping and iCloud sync
 - 💸 **[Xpense](https://github.com/dinhanhthi/xpense)** - Simple web app for sharing expense
