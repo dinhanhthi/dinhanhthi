@@ -16,6 +16,7 @@ Projects I’m working on (most are open source):
 - 🛠️ **[Coding Friend](https://github.com/dinhanhthi/coding-friend)** - Lean toolkit for disciplined engineering workflows with AI Agents
 - 🗄️ **[Dblore](https://github.com/dinhanhthi/Dblore)** - A native macOS app for working with databases: notebooks and a database editor
 - 📦 **[Dotlore](https://github.com/dinhanhthi/dotlore)** - Sync your AI stuff and keep it away from your main codebase
+- 🔊 **[EchoDiar](https://github.com/dinhanhthi/EchoDiar)** - Offline-first meeting transcription with speaker diarization for Google Meet, Teams, Zoom, plus local or API-powered AI summarization and Q&A.
 - 👥 **[face-grouper](https://github.com/dinhanhthi/face-grouper)** - A CLI tool that groups photos and videos by person using offline face recognition
 - 😊 **[FastMoji](https://github.com/dinhanhthi/FastMoji)** - A simple, fast way to insert emoji on macOS
 - 🐶 **[Memlore](https://memlore.app)** - A cross-platform, privacy-first, local-first journal — with rich, optional AI
