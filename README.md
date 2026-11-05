@@ -26,6 +26,7 @@ Projects I’m working on (most are open source):
 - 🎬 **[SegDown](https://github.com/dinhanhthi/SegDown)** - Mark time ranges on a video in your browser, then download only those ranges with a native macOS app
 - 🖼️ **[Side by side](https://github.com/dinhanhthi/side-by-side)** - A simple web tool to combine multiple photos into a single image
 - ⌨️ **[SimpleMapper](https://github.com/dinhanhthi/SimpleMapper)** - Lightweight macOS key remapper: a simple Karabiner-Elements alternative with global or per-keyboard remapping and iCloud sync
+- ≡ **[SimpleMenu](https://github.com/dinhanhthi/SimpleMenu)** -- Hide the menu bar items you don't need, and get them back with a click.
 - 💸 **[Xpense](https://github.com/dinhanhthi/xpense)** - Simple web app for sharing expense
 
 More about me, my tools and my notes 👉 [dinhanhthi.com](https://dinhanhthi.com).
