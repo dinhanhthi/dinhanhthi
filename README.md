@@ -11,7 +11,7 @@ I'm a Vietnamese guy with a curious mind. I like to learn something new every da
 - 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://dinhanhthi.com/reading/) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
 - 💌 Contact me at [me@dinhanhthi.com](mailto:me@dinhanhthi.com).
 
-Projects I’m working on (most are open source):
+Projects I’m working on (All are open source):
 
 - 🔥 **My learning notes**: [dinhanhthi.com](https://dinhanhthi.com/)
 - 🛠️ **[Coding Friend](https://github.com/dinhanhthi/coding-friend)** - Lean toolkit for disciplined engineering workflows with AI Agents
