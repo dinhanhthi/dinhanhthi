@@ -14,6 +14,7 @@ I'm a Vietnamese guy with a curious mind. I like to learn something new every da
 Projects I’m working on (All are open source):
 
 - 🔥 **My learning notes**: [dinhanhthi.com](https://dinhanhthi.com/)
+- 🔀 **[CmdTab](https://github.com/dinhanhthi/CmdTab)** - Switch between tabs using cmd + tab on macOS
 - 🛠️ **[Coding Friend](https://github.com/dinhanhthi/coding-friend)** - Lean toolkit for disciplined engineering workflows with AI Agents
 - 🗄️ **[Dblore](https://github.com/dinhanhthi/Dblore)** - A native macOS app for working with databases: notebooks and a database editor
 - 📦 **[Dotlore](https://github.com/dinhanhthi/dotlore)** - Sync your AI stuff and keep it away from your main codebase
