@@ -22,6 +22,7 @@ Projects I’m working on (All are open source):
 - 👥 **[face-grouper](https://github.com/dinhanhthi/face-grouper)** - A CLI tool that groups photos and videos by person using offline face recognition
 - 😊 **[FastMoji](https://github.com/dinhanhthi/FastMoji)** - A simple, fast way to insert emoji on macOS
 - 🐶 **[Memlore](https://memlore.app)** - A cross-platform, privacy-first, local-first journal — with rich, optional AI
+- 🖥️ **[OpenDisplay](https://github.com/dinhanhthi/OpenDisplay)** - Unlock Flexible HiDPI scaling and manage your screens on macOS
 - 🪄 **[PopGuy](https://github.com/dinhanhthi/PopGuy)** - A guy pops up from your selected text with magic
 - 🧹 **[Quick Clear](https://github.com/dinhanhthi/quick-clear-chrome)** - An extension to quickly clear web history and download history
 - 🎬 **[SegDown](https://github.com/dinhanhthi/SegDown)** - Mark time ranges on a video in your browser, then download only those ranges with a native macOS app
