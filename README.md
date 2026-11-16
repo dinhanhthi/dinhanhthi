@@ -21,6 +21,7 @@ Projects I’m working on (All are open source):
 - 🔊 **[EchoDiar](https://github.com/dinhanhthi/EchoDiar)** - Offline-first meeting transcription with speaker diarization for Google Meet, Teams, Zoom, plus local or API-powered AI summarization and Q&A.
 - 👥 **[face-grouper](https://github.com/dinhanhthi/face-grouper)** - A CLI tool that groups photos and videos by person using offline face recognition
 - 😊 **[FastMoji](https://github.com/dinhanhthi/FastMoji)** - A simple, fast way to insert emoji on macOS
+- 🌿 **[Histq](https://github.com/dinhanhthi/Histq)** - A native macOS git client that drives the git you already have
 - 🐶 **[Memlore](https://memlore.app)** - A cross-platform, privacy-first, local-first journal — with rich, optional AI
 - 🖥️ **[OpenDisplay](https://github.com/dinhanhthi/OpenDisplay)** - Unlock Flexible HiDPI scaling and manage your screens on macOS
 - 🪄 **[PopGuy](https://github.com/dinhanhthi/PopGuy)** - A guy pops up from your selected text with magic
