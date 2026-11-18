@@ -6,6 +6,7 @@
 
 I'm a Vietnamese guy with a curious mind. I like to learn something new every day. I'm a **doctor in Applied Maths**, have worked as a Data Scientist, and am currently a **Full Stack Developer**.
 
+- 🚀 Creator of [Coprimal](https://coprimal.dev), the home of many of my apps.
 - 🌱 On the way of learning AI Agents & enjoying app development.
 - 📚 My notes of learning at [dinhanhthi.com](http://dinhanhthi.com/).
 - 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://dinhanhthi.com/reading/) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
