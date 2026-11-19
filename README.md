@@ -16,11 +16,11 @@ Projects I’m working on (All are open source):
 
 - 🔥 **My learning notes**: [dinhanhthi.com](https://dinhanhthi.com/)
 - 🔀 **[CmdTab](https://github.com/Coprimal/CmdTab)** - Switch between tabs using cmd + tab on macOS
-- 🛠️ **[Coding Friend](https://github.com/dinhanhthi/coding-friend)** - Lean toolkit for disciplined engineering workflows with AI Agents
+- 🛠️ **[Coding Friend](https://github.com/Coprimal/coding-friend)** - Lean toolkit for disciplined engineering workflows with AI Agents
 - 🗄️ **[Dblore](https://github.com/Coprimal/Dblore)** - A native macOS app for working with databases: notebooks and a database editor
 - 📦 **[Dotlore](https://github.com/Coprimal/dotlore)** - Sync your AI stuff and keep it away from your main codebase
-- 🔊 **[EchoDiar](https://github.com/dinhanhthi/EchoDiar)** - Offline-first meeting transcription with speaker diarization for Google Meet, Teams, Zoom, plus local or API-powered AI summarization and Q&A.
-- 👥 **[face-grouper](https://github.com/dinhanhthi/face-grouper)** - A CLI tool that groups photos and videos by person using offline face recognition
+- 🔊 **[EchoDiar](https://github.com/Coprimal/EchoDiar)** - Offline-first meeting transcription with speaker diarization for Google Meet, Teams, Zoom, plus local or API-powered AI summarization and Q&A.
+- 👥 **[face-grouper](https://github.com/Coprimal/face-grouper)** - A CLI tool that groups photos and videos by person using offline face recognition
 - 😊 **[FastMoji](https://github.com/Coprimal/FastMoji)** - A simple, fast way to insert emoji on macOS
 - 🌿 **[Histq](https://github.com/Coprimal/Histq)** - A native macOS git client that drives the git you already have
 - 🐶 **[Memlore](https://memlore.app)** - A cross-platform, privacy-first, local-first journal — with rich, optional AI
@@ -31,6 +31,6 @@ Projects I’m working on (All are open source):
 - 🖼️ **[Side by side](https://github.com/dinhanhthi/side-by-side)** - A simple web tool to combine multiple photos into a single image
 - ⌨️ **[SimpleMapper](https://github.com/Coprimal/SimpleMapper)** - Lightweight macOS key remapper: a simple Karabiner-Elements alternative with global or per-keyboard remapping and iCloud sync
 - ≡ **[SimpleMenu](https://github.com/dinhanhthi/SimpleMenu)** -- Hide the menu bar items you don't need, and get them back with a click.
-- 💸 **[Xpense](https://github.com/dinhanhthi/xpense)** - Simple web app for sharing expense
+- 💸 **[Xpense](https://github.com/Coprimal/xpense)** - Simple web app for sharing expense
 
 More about me, my tools and my notes 👉 [dinhanhthi.com](https://dinhanhthi.com).
